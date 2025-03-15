@@ -23,7 +23,7 @@ void waitForUser() {
 
 int main() {
     char filename[MAX_FILENAME];
-    char introduction[] = "Hello, my name is John Doe.\n\n"
+    char introduction[] = "Hello, my name is Miguel Tlatenchi.\n\n"
                           "I am a computer science student passionate about systems programming.\n"
                           "This project involves creating a file system library in C.\n"
                           "I hope you find my implementation useful!";
